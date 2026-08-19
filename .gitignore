@@ -1,0 +1,5 @@
+# Binaries are attached to GitHub *Releases*, never committed to the repo —
+# committing an 80 MB exe once bloats every clone of this repo forever.
+*.exe
+*.blockmap
+latest*.yml
