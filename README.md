@@ -12,6 +12,9 @@ proposes commands one at a time with a risk rating, and explains the fix.
 
 Website & pricing: **https://serverfixai.com**
 Support: **support@serverfixai.com**
+Pricing: **https://serverfixai.com/pricing**
+Download page: **https://serverfixai.com/download**
+Documentation: **https://serverfixai.com/docs**
 
 ---
 
